@@ -1,0 +1,622 @@
+{
+    "url": "https://gitcoin.co/issue/fluencelabs/gitcoin-gr12-hackathon/3/100027206",
+    "created_on": "2021-11-30T20:47:34.314118Z",
+    "modified_on": "2021-11-30T20:47:35.093912Z",
+    "title": "Best Use Of Fluence And Aqua In Your DApp",
+    "web3_created": "2021-11-30T20:47:34.314561Z",
+    "value_in_token": "2000000000.00",
+    "token_name": "USDC",
+    "token_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "bounty_type": "Other",
+    "bounty_categories": [
+        "backend"
+    ],
+    "project_length": "Days",
+    "experience_level": "Intermediate",
+    "github_url": "https://github.com/fluencelabs/gitcoin-gr12-hackathon/issues/3",
+    "github_comments": 0,
+    "bounty_owner_address": "0x63b495e5Fd84661B07DA2bEB4cFFFbc0cb13b1BA",
+    "bounty_owner_email": "lekanova.a@gmail.com",
+    "bounty_owner_github_username": "lekanova",
+    "bounty_owner_name": "Anonymous",
+    "fulfillments": [],
+    "interested": [],
+    "is_open": true,
+    "expires_date": "2021-12-16T23:59:59Z",
+    "activities": [
+        {
+            "activity_type": "new_bounty",
+            "pk": 3690809,
+            "created": "2021-11-30T20:47:35.394469Z",
+            "profile": {
+                "id": 64226,
+                "url": "/lekanova",
+                "name": "Anna Lekanova",
+                "handle": "lekanova",
+                "keywords": [
+                    "Vue",
+                    "HTML"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/7ba3972ac8b4c5907f3fc6b75e9e184b/lekanova.png",
+                "github_url": "https://github.com/lekanova",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            "metadata": {
+                "id": 27206,
+                "title": "Best Use Of Fluence And Aqua In Your DApp",
+                "token_name": "USDC",
+                "value_in_eth": "0.4288070884213105",
+                "value_in_token": "2000000000.0",
+                "value_in_usdt_now": "2000.0",
+                "token_value_in_usdt": "1",
+                "token_value_time_peg": "2021-11-30 20:47:35.204162+00:00"
+            },
+            "bounty": 27206,
+            "tip": null,
+            "kudos": null
+        }
+    ],
+    "keywords": "dapp,nft,dex,dao,aqua,bounty,ipfs",
+    "current_bounty": true,
+    "value_in_eth": "0.43",
+    "token_value_in_usdt": "1.00",
+    "value_in_usdt_now": "2000.00",
+    "value_in_usdt": "2000.00",
+    "status": "open",
+    "now": "2021-11-30T22:16:07.443257Z",
+    "avatar_url": "https://gitcoin.co/dynamic/avatar/fluencelabs",
+    "value_true": "2000.00",
+    "issue_description": "### Prize Title\rBest Use Of Fluence And Aqua In Your DApp\r\r\r### Difficulty\rIntermediate/Advanced\r\r### Prize Bounty\rUSD 2,000\r\r\r### Challenge Description\rExamples include:\r* Use Fluence and Aqua to power a decentralized NFT creation and storage solution using, for example, plain IPFS or NFT.storage. We are especially excited about using Fluence compute to enable dynamic NFTs.\r* Use Fluence and Aqua to create a multi source DEX price oracle. Fluence compute and Aqua are uniquely suited to facilitate (cross-chain) querying and processing of streams, such as the computation of buy/sell orders and optimal order-split and routing to DExs.\r* Use Fluence and Aqua to enable off-chain DAOs\u2028\r\r\r\r### Submission Requirements & Judging Criteria\r* Generously document your submission\r* Provide a max three (3) minute video for Beginner challenges and a max five (5) minute video for intermediate and advanced challenges to present and demonstrate your solution\r* Submit via a Github or GitLab repo with MIT or Apache 2.0 license\r* Judging is based on the originality, functionality, and completeness of the submission. In the case of multiple prizes for a given challenge, the order of submissions determines the payout rank for complete and functional projects.\r\r\r\r### About Fluence\rFluence provides the infrastructure and tools to enable decentralized compute for applications and backends on peer-to-peer networks. Nodes in the Fluence peer-to-peer network host addressable services comprised of WebAssembly Interface Types (IT) modules. Aqua, Fluence's purpose-built distributed systems programming language, allows developers to seamlessly program distributed networks and compose hosted services into decentralized applications. As a result, the Fluence platform allows you to quickly and effectively create and implement Web3 protocols and associated governance models.\r\r\r### General\rFluence has a variety of components and building blocks available to accelerate your project build.\r\r\r\r### Resources\r* [Website](https://fluence.network/)\r* [Fluence documentation](https://doc.fluence.dev/docs/)\r* [Aqua book](https://doc.fluence.dev/aqua-book/)\r* [Fluence Examples](https://github.com/fluencelabs/examples)\r* [Fluence YouTube](https://www.youtube.com/channel/UC3b5eFyKRFlEMwSJ1BTjpbw)\r* [Discord](https://fluence.chat/)\r* [Fluence Youtube channel](https://www.youtube.com/channel/UC3b5eFyKRFlEMwSJ1BTjpbw)\r* [Book A Meeting With The Team](https://calendly.com/fluencehack/)",
+    "network": "mainnet",
+    "org_name": "fluencelabs",
+    "pk": 27206,
+    "issue_description_text": "### Prize Title\rBest Use Of Fluence And Aqua In Your DApp\r\r\r### Difficulty\rIntermediate/Advanced\r\r### Prize Bounty\rUSD 2,000\r\r\r### Challenge Description\rExamples include:\r* Use Fluence and Aqua to power a decentralized NFT creation and storage solution using, for example, plain IPFS or NFT.storage. We are especially excited about using Fluence compute to enable dynamic NFTs.\r* Use Fluence and Aqua to create a multi source DEX price oracle. Fluence compute and Aqua are uniquely suited to facilitate (cross-chain) querying and processing of streams, such as the computation of buy/sell orders and optimal order-split and routing to DExs.\r* Use Fluence and Aqua to enable off-chain DAOs\u2028\r\r\r\r### Submission Requirements & Judging Criteria\r* Generously document your submission\r* Provide a max three (3) minute video for Beginner challenges and a max five (5) minute video for intermediate and advanced challenges to present and demonstrate your solution\r* Submit via a Github or GitLab repo with MIT or Apache 2.0 license\r* Judging is based on the originality, functionality, and completeness of the submission. In the case of multiple prizes for a given challenge, the order of submissions determines the payout rank for complete and functional projects.\r\r\r\r### About Fluence\rFluence provides the infrastructure and tools to enable decentralized compute for applications and backends on peer-to-peer networks. Nodes in the Fluence peer-to-peer network host addressable services comprised of WebAssembly Interface Types (IT) modules. Aqua, Fluence's purpose-built distributed systems programming language, allows developers to seamlessly program distributed networks and compose hosted services into decentralized applications. As a result, the Fluence platform allows you to quickly and effectively create and implement Web3 protocols and associated governance models.\r\r\r### General\rFluence has a variety of components and building blocks available to accelerate your project build.\r\r\r\r### Resources\r* [Website](https://fluence.network/)\r* [Fluence documentation](https://doc.fluence.dev/docs/)\r* [Aqua book](https://doc.fluence.dev/aqua-book/)\r* [Fluence Examples](https://github.com/fluencelabs/examples)\r* [Fluence YouTube](https://www.youtube.com/channel/UC3b5eFyKRFlEMwSJ1BTjpbw)\r* [Discord](https://fluence.chat/)\r* [Fluence Youtube channel](https://www.youtube.com/channel/UC3b5eFyKRFlEMwSJ1BTjpbw)\r* [Book A Meeting With The Team](https://calendly.com/fluencehack/)",
+    "standard_bounties_id": 100027206,
+    "web3_type": "web3_modal",
+    "can_submit_after_expiration_date": false,
+    "github_issue_number": 3,
+    "github_org_name": "fluencelabs",
+    "github_repo_name": "gitcoin-gr12-hackathon",
+    "idx_status": "open",
+    "token_value_time_peg": "2021-11-30T20:47:35.204162Z",
+    "fulfillment_accepted_on": null,
+    "fulfillment_submitted_on": null,
+    "fulfillment_started_on": null,
+    "canceled_on": null,
+    "canceled_bounty_reason": "",
+    "action_urls": {
+        "fulfill": "/issue/fulfill?pk=27206&network=mainnet",
+        "increase": "/issue/increase?pk=27206&network=mainnet",
+        "accept": "/issue/accept?pk=27206&network=mainnet",
+        "cancel": "/issue/cancel?pk=27206&network=mainnet",
+        "payout": "/issue/payout?pk=27206&network=mainnet",
+        "advanced_payout": "/issue/advanced_payout?pk=27206&network=mainnet",
+        "invoice": "/issue/invoice?pk=27206&network=mainnet"
+    },
+    "project_type": "contest",
+    "permission_type": "permissionless",
+    "attached_job_description": "",
+    "needs_review": false,
+    "github_issue_state": "open",
+    "is_issue_closed": false,
+    "additional_funding_summary": {},
+    "funding_organisation": "",
+    "paid": [],
+    "event": {
+        "id": 91,
+        "sponsor_profiles": [
+            {
+                "id": 59802,
+                "url": "/vitelabs",
+                "name": "Vite Labs",
+                "handle": "vitelabs",
+                "keywords": [
+                    "TypeScript",
+                    "JavaScript",
+                    "Dart",
+                    "Rust",
+                    "Go",
+                    "Swift",
+                    "CSS",
+                    "C",
+                    "Java",
+                    "Python",
+                    "C++",
+                    "Vue",
+                    "HTML",
+                    "TeX"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/4ac8b110792963c9d29325b3c773cd4b/vitelabs.png",
+                "github_url": "https://github.com/vitelabs",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 64099,
+                "url": "/unstoppabledomains",
+                "name": "unstoppabledomains",
+                "handle": "unstoppabledomains",
+                "keywords": [
+                    "JavaScript",
+                    "TypeScript"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/23c6fada9833332d3eeae6bd1ca8dcc2/unstoppabledomains.png",
+                "github_url": "https://github.com/unstoppabledomains",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 64131,
+                "url": "/fluencelabs",
+                "name": "Fluence Project",
+                "handle": "fluencelabs",
+                "keywords": [
+                    "Scala",
+                    "Rust",
+                    "TypeScript",
+                    "Kotlin",
+                    "WebAssembly",
+                    "C++",
+                    "C",
+                    "JavaScript",
+                    "Elm",
+                    "Shell",
+                    "Dockerfile",
+                    "HTML",
+                    "Java",
+                    "Go",
+                    "Python",
+                    "CSS"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/3c608dc66a7f4ffcae617e4b57a1931c/fluencelabs.png",
+                "github_url": "https://github.com/fluencelabs",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 68798,
+                "url": "/dimensiondev",
+                "name": "Mask Network",
+                "handle": "dimensiondev",
+                "keywords": [
+                    "JavaScript",
+                    "Java",
+                    "TypeScript",
+                    "Swift",
+                    "Solidity",
+                    "Go",
+                    "Python",
+                    "HTML",
+                    "Shell",
+                    "CSS",
+                    "Rust",
+                    "Kotlin",
+                    "C++"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/docs/7873f5d2caec1071a65a665e4397ba6f/MaskBook.png",
+                "github_url": "https://github.com/dimensiondev",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 103759,
+                "url": "/badger-finance",
+                "name": "Badger Finance",
+                "handle": "badger-finance",
+                "keywords": [
+                    "HTML",
+                    "Solidity",
+                    "Python",
+                    "TypeScript",
+                    "JavaScript",
+                    "C#",
+                    "Shell"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/176e4d129547709c5de8c04a9dcdc3f0/badger-finance.png",
+                "github_url": "https://github.com/badger-finance",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 136016,
+                "url": "/unigrants",
+                "name": "unigrants",
+                "handle": "unigrants",
+                "keywords": [],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/dcbb2300eb8daa178fafcee0fb406390/unigrants.png",
+                "github_url": "https://github.com/unigrants",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 151806,
+                "url": "/getsafle",
+                "name": "getSafle",
+                "handle": "getsafle",
+                "keywords": [
+                    "JavaScript"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/937e2c182a75585c73299b6ed8c00974/getsafle.png",
+                "github_url": "https://github.com/getsafle",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 252393,
+                "url": "/lit-protocol",
+                "name": "lit-protocol",
+                "handle": "lit-protocol",
+                "keywords": [
+                    "Assembly",
+                    "Rust",
+                    "JavaScript",
+                    "HTML",
+                    "C"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/d95fb51f1eac8031e126e166c0fa78a3/lit-protocol.png",
+                "github_url": "https://github.com/lit-protocol",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 254862,
+                "url": "/ledgerhq",
+                "name": "Ledger",
+                "handle": "ledgerhq",
+                "keywords": [
+                    "C",
+                    "JavaScript",
+                    "Objective-C",
+                    "Java",
+                    "Shell",
+                    "Python",
+                    "Rust",
+                    "C++",
+                    "PowerShell",
+                    "HTML",
+                    "Go",
+                    "Ruby",
+                    "TypeScript",
+                    "Batchfile",
+                    "Scala",
+                    "SCSS",
+                    "Dockerfile",
+                    "C#",
+                    "Swift",
+                    "Objective-C++",
+                    "VHDL",
+                    "OCaml"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/80c3be03f3ed645cd87edf52a2e3d9ee/ledgerhq.png",
+                "github_url": "https://github.com/ledgerhq",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 255996,
+                "url": "/binance-chain",
+                "name": "Binance Smart Chain",
+                "handle": "binance-chain",
+                "keywords": [
+                    "Go",
+                    "JavaScript",
+                    "Java",
+                    "Solidity",
+                    "Elixir",
+                    "Rust",
+                    "Shell",
+                    "C",
+                    "C#",
+                    "Makefile",
+                    "Python",
+                    "TypeScript",
+                    "C++",
+                    "Swift"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/599ffe2a7c29d305ad35437e4f8e5ed5/binance-chain.png",
+                "github_url": "https://github.com/binance-chain",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 280386,
+                "url": "/subsquid",
+                "name": "Subsquid",
+                "handle": "subsquid",
+                "keywords": [
+                    "JavaScript",
+                    "TypeScript",
+                    "Solidity"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/d46c626eddc9217100fb48460d944d4e/subsquid.png",
+                "github_url": "https://github.com/subsquid",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 293279,
+                "url": "/stars-labs",
+                "name": "stars-labs",
+                "handle": "stars-labs",
+                "keywords": [
+                    "JavaScript",
+                    "HTML",
+                    "Solidity",
+                    "Go",
+                    "Java",
+                    "TypeScript"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/458299c344c8171572509ad49a54d222/stars-labs.png",
+                "github_url": "https://github.com/stars-labs",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 293282,
+                "url": "/subquery",
+                "name": "SubQuery Network",
+                "handle": "subquery",
+                "keywords": [
+                    "TypeScript",
+                    "JavaScript"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/30e55c41d95f3f48612a8d02de4bfa3c/subquery.png",
+                "github_url": "https://github.com/subquery",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 293454,
+                "url": "/cyberconnecthq",
+                "name": "CyberConnect",
+                "handle": "cyberconnecthq",
+                "keywords": [
+                    "TypeScript"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/7cc38e4537ef8b207b8edda300189df6/cyberconnecthq.png",
+                "github_url": "https://github.com/cyberconnecthq",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 294501,
+                "url": "/aws-samples",
+                "name": "AWS Samples",
+                "handle": "aws-samples",
+                "keywords": [],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/2936d477fd7c3054d4d47071ca65dabc/aws-samples.png",
+                "github_url": "https://github.com/aws-samples",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 295000,
+                "url": "/shielddaodev",
+                "name": "Shield DAO",
+                "handle": "shielddaodev",
+                "keywords": [
+                    "JavaScript",
+                    "Solidity",
+                    "TypeScript"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/db50ae2834f4c0af9e83912311751b30/shielddaodev.png",
+                "github_url": "https://github.com/shielddaodev",
+                "total_earned": 0,
+                "organizations": {}
+            },
+            {
+                "id": 301284,
+                "url": "/zebec-protocol",
+                "name": "Zebec Protocol",
+                "handle": "zebec-protocol",
+                "keywords": [
+                    "Rust",
+                    "JavaScript"
+                ],
+                "position": 0,
+                "avatar_url": "https://c.gitcoin.co/avatars/91867097eef53832b495db8cff8a2c69/zebec-protocol.png",
+                "github_url": "https://github.com/zebec-protocol",
+                "total_earned": 0,
+                "organizations": {}
+            }
+        ],
+        "prizes": 0,
+        "winners": 0,
+        "created_on": "2021-11-03T23:10:25Z",
+        "modified_on": "2021-11-30T22:06:24.614486Z",
+        "name": "Grants Round 12 Hackathon",
+        "slug": "gr12",
+        "short_code": "gr12",
+        "logo": "https://c.gitcoin.co/Light_yellow.jpg",
+        "logo_svg": "https://c.gitcoin.co/Light_yellow.svg",
+        "start_date": "2021-12-01T12:00:00Z",
+        "end_date": "2021-12-16T23:59:59Z",
+        "banner": "https://c.gitcoin.co/Page_Banner.jpg",
+        "background_color": "#FFF8DB",
+        "text_color": "black",
+        "border_color": null,
+        "identifier": "gr12",
+        "show_results": true,
+        "hackathon_summary": "The Grants Round 12 Hackathon is Gitcoin's fourth \"Stacked Event\" to support Ethereum and Web3 by building and donating.",
+        "description": "<h1 class=\"ql-align-center\"><br></h1><p class=\"ql-align-center\"><img src=\"https://c.gitcoin.co/docs/b37d924ce70620ead30319adee7d4fb8/sponsorsBanner.png\"></p><p class=\"ql-align-center\"><br></p><h1 class=\"ql-align-center\"><br></h1><h1 class=\"ql-align-center\"><strong>Gitcoin Grants Round 12 Hackathon</strong></h1><h3 class=\"ql-align-center\">December 1st - December 16th, 2021</h3><p class=\"ql-align-center\"><br></p><h3><strong>Calling All Builders!</strong></h3><p>Join Gitcoin\u2019s vibrant community of builders getting paid to build Open Source. This community includes <strong>more than 200,000 active builders</strong> who have collectively <strong>generated $40+ million for digital public goods</strong>. Join a sponsored hackathon and team up with new friends to tackle new challenges and learn new skills while earning rewards in Open Source.</p><p><strong>Here\u2019s how to get started:</strong></p><ul><li>Find a team and connect with builders on the <a href=\"http://discord.gg/gitcoin\"><strong>Gitcoin Discord</strong></a>; navigate to the <strong>#\ud83d\udc4bstart-here</strong> channel and select the '<strong>Virtual Events</strong>' role; then, go to <strong>#\ud83d\ude3ateam-up</strong></li><li>Sign up for the hackathon and '<strong>Join Now</strong>' at the top of this page</li><li>Link to the event and workshop schedule: <a href=\"https://www.addevent.com/calendar/Fu274403\"><strong>https://www.addevent.com/calendar/Fu274403</strong></a></li><li>Check for updates on <strong>#\ud83d\udd96builders-general</strong> and the <strong>#\ud83e\udd84gr12-hackathon</strong> in the <a href=\"http://discord.gg/gitcoin\"><strong>Gitcoin Discord</strong></a> and your email inbox</li></ul><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Here\u2019re the key dates:</strong></p><ul><li>December 1st, Wednesday: Hackathon begins</li><li>12/1 @ 10:30 AM PST: Opening Ceremony <a href=\"http://evt.to/amgeeemgw\" style=\"background-color: transparent; color: rgb(17, 85, 204);\">Add to calendar</a></li><li>12/2 @ 6:00 AM PST: Team Building Session 1 <a href=\"http://evt.to/amehuuoiw\" style=\"background-color: transparent; color: rgb(17, 85, 204);\">Add to calendar</a></li><li>12/2 @ 11:00 AM PST: Team Building Session 2 <a href=\"http://evt.to/amessdhuw\" style=\"background-color: transparent; color: rgb(17, 85, 204);\">Add to calendar</a></li><li>December 16th, Thursday: Deadline for submission of hackathon projects</li><li>TBD: Hackathon project showcase</li></ul><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Sponsor Workshops:</strong></p><ul><li><strong style=\"color: rgb(34, 34, 34);\">Building And Composing Web 3 Protocols With Fluence and Aqua </strong><em style=\"color: rgb(34, 34, 34);\">December 1</em> In this workshop, we present the open Fluence p2p protocol, network and open source tooling including Aqua, Fluence's peer-to-peer programming language. Moreover, we dive into code to illustrate the use of Fluence and Aqua to create distributed services and compose them into peer-to-peer applications. <a href=\"http://evt.to/amgsdhdew\" style=\"color: rgb(17, 85, 204);\">Add to calendar</a></li><li><strong style=\"color: rgb(34, 34, 34);\">Token Gated Experiences with MintGate:</strong><em style=\"color: rgb(34, 34, 34);\"> December&nbsp; 2</em>&nbsp; We'll provide an overview of the APIs available for developers to token gated apps, as well as use cases for other MintGate APIs. <a href=\"http://evt.to/amehuuouw\" style=\"color: rgb(17, 85, 204);\">Add to calendar</a></li><li><strong style=\"color: rgb(34, 34, 34);\">SubQuery Workshop</strong> <em style=\"color: rgb(34, 34, 34);\">December 3</em> SubQuery is a data indexing tool that allows developers to explore and transform on-chain data to build intuitive dApps faster! In this hour long workshop, the SubQuery team will show you how to build your first ever SubQuery Project. Whether you have previous development skills or not, you will learn how to index blockchain data and get a node and query service running in only a few minutes. <a href=\"http://evt.to/amgeeemuw\" style=\"color: rgb(17, 85, 204);\">Add to calendar</a></li></ul><p><img src=\"https://c.gitcoin.co/docs/807bea64d721b63980f413432f8cddc8/onboarding_banner.png\"></p><h3><strong>Why Build Digital Public Goods?</strong></h3><p>The past year has seen an increasing public interest in <a href=\"https://consensys.net/reports/web3-report-q3-2021/\" style=\"color: rgb(17, 85, 204); background-color: transparent;\"><strong>Web 3</strong></a>. As a result, many people worldwide became aware of the value of Open Source Software, and more generally, \"digital public goods.\"&nbsp;</p><p>Open-source research and development for blockchain platforms are more critical than present speculation in decentralized financial markets and the unsustainable races in proof of work mining. Fortunately, the diverse and vital Web 3 ecosystem is growing increasingly powerful, and <a href=\"https://twitter.com/owocki/status/1460031436929576961\"><strong>many builders and funders make essential contributions to public protocol and application infrastructure</strong></a> that genuinely assist humankind.</p><p><a href=\"https://gitcoin.co/grants/\" style=\"color: rgb(17, 85, 204); background-color: transparent;\"><strong>Gitcoin Grants</strong></a> is one of the crucial funding flywheels for these initiatives. Utilizing a new matching funding mechanism known as <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656\" style=\"color: rgb(17, 85, 204); background-color: transparent;\"><strong>Quadratic Funding</strong></a>, Gitcoin Grants is a more scalable and democratic grant-making program that steers increasing returns towards initiatives that benefit a broad community instead of things with only a few wealthy backers. As a result, public work in Web 3 is becoming an attractive career choice for builders to bypass shareholder-owned, for-profit arrangements as we know them from Web 2 (e.g., Alphabet, Amazon, and Meta.)</p><p><img src=\"https://c.gitcoin.co/docs/dc657340cb805dfb73ef03808c4f8393/onboardingpageGraph.png\"></p><p>Moving forward with this accelerating impact by our community, we are now entering the 12th Gitcoin Grants round. Concurrently, as established, we are organizing a hackathon in the spirit of digital public goods: <strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">So, welcome to the Grants Round 12 Hackathon!</strong></p><h3><strong>Two-Week Collaborative Event</strong></h3><p>We invite you to join us to learn about Web 3, connect with like-minded builders, and win prizes worth <strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">$TBD</strong>. The event sponsors, ranging from more established to early-stage projects in the space, put up an exciting range of hackathon challenges around issues including \"Decentralized Finance,\" \"Non-Fungible Tokens,\" \"Solarpunk,\" \"Decentralized Autonomous Organizations,\" and \"Web III\" more generally.</p><h3><strong>Set Sail!</strong></h3><p>Sign up for the hackathon via the \u201cJoin now\u201d button above. Select the \u2018Virtual Events\u2019 role in the <strong>#\ud83d\udc4bstart-here</strong> channel in the <a href=\"http://discord.gg/gitcoin\" style=\"background-color: rgb(255, 255, 255);\"><strong>Gitcoin Discord</strong></a> and find a team and connect with builders on the <a href=\"http://discord.gg/gitcoin\" style=\"background-color: rgb(255, 255, 255);\"><strong>Gitcoin Discord</strong></a> in <strong>#\ud83d\ude3ateam-up</strong>. Check for updates on the Gitcoin Discord in <strong>#\ud83d\udd96builders-general</strong> and <strong>#\ud83e\udd84gr12-hackathon</strong> and your email inbox. Finally, make sure to <a href=\"https://youtu.be/yT-aqtigFoc\" style=\"background-color: transparent; color: rgb(17, 85, 204);\"><strong>submit your projects</strong></a> by <strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">December 16th at 11:59 pm UTC</strong>.</p><h3><strong>Do I Have to Be a Developer?</strong></h3><p>No! We welcome anyone who brings dedication and experience to the hackathon. Whether you want to help as a designer, project manager, give product experience advice, write documentation, or do something else. Often the projects that do well at hackathons are the ones that focus on more than just code.</p><h3><strong>New to Decentralized Application Development?</strong></h3><p>If you're new to Ethereum, Web3, and decentralized application development, you are most welcome here! Below are some resources for you to learn the fundamentals and get hacking as quickly as possible.</p><ul><li>What is Ethereum? <a href=\"https://ethereum.org/en/what-is-ethereum/\" style=\"background-color: transparent;\"><strong>https://ethereum.org/en/what-is-ethereum/</strong></a></li><li>ScaffoldEth is everything you need to build on Ethereum: <a href=\"https://github.com/scaffold-eth/scaffold-eth\" style=\"background-color: transparent;\"><strong>https://github.com/scaffold-eth/scaffold-eth</strong></a></li><li>EthBuild gives you a great introduction to the crypto-economic principles behind Ethereum and blockchains: <a href=\"https://eth.build/\" style=\"background-color: transparent;\"><strong>https://eth.build/</strong></a></li><li>The organizer of ScaffoldEth and EthBuild, Austin Griffith, produces excellent videos useful for beginners: <a href=\"https://youtu.be/MlJPjJQZtC8\"><strong>https://youtu.be/MlJPjJQZtC8</strong></a></li></ul>",
+        "quest_link": "",
+        "chat_channel_id": null,
+        "use_circle": false,
+        "visible": true,
+        "total_prize": null,
+        "default_channels": [],
+        "display_showcase": false,
+        "showcase": {
+            "prizes_count": 0,
+            "winners_count": 0
+        },
+        "calendar_id": "",
+        "metadata": {
+            "orgs": [
+                {
+                    "handle": "vitelabs",
+                    "org_name": "vitelabs",
+                    "avatar_url": "https://c.gitcoin.co/avatars/4ac8b110792963c9d29325b3c773cd4b/vitelabs.png",
+                    "bounty_count": 14,
+                    "display_name": "Vite Labs",
+                    "follower_count": 237
+                },
+                {
+                    "handle": "unstoppabledomains",
+                    "org_name": "unstoppabledomains",
+                    "avatar_url": "https://c.gitcoin.co/avatars/23c6fada9833332d3eeae6bd1ca8dcc2/unstoppabledomains.png",
+                    "bounty_count": 5,
+                    "display_name": "unstoppabledomains",
+                    "follower_count": 140
+                },
+                {
+                    "handle": "fluencelabs",
+                    "org_name": "fluencelabs",
+                    "avatar_url": "https://c.gitcoin.co/avatars/3c608dc66a7f4ffcae617e4b57a1931c/fluencelabs.png",
+                    "bounty_count": 17,
+                    "display_name": "Fluence Project",
+                    "follower_count": 137
+                },
+                {
+                    "handle": "dimensiondev",
+                    "org_name": "dimensiondev",
+                    "avatar_url": "https://c.gitcoin.co/docs/7873f5d2caec1071a65a665e4397ba6f/MaskBook.png",
+                    "bounty_count": 44,
+                    "display_name": "Mask Network",
+                    "follower_count": 435
+                },
+                {
+                    "handle": "badger-finance",
+                    "org_name": "badger-finance",
+                    "avatar_url": "https://c.gitcoin.co/avatars/176e4d129547709c5de8c04a9dcdc3f0/badger-finance.png",
+                    "bounty_count": 34,
+                    "display_name": "Badger Finance",
+                    "follower_count": 1040
+                },
+                {
+                    "handle": "unigrants",
+                    "org_name": "unigrants",
+                    "avatar_url": "https://c.gitcoin.co/avatars/dcbb2300eb8daa178fafcee0fb406390/unigrants.png",
+                    "bounty_count": 3,
+                    "display_name": "unigrants",
+                    "follower_count": 449
+                },
+                {
+                    "handle": "getsafle",
+                    "org_name": "getsafle",
+                    "avatar_url": "https://c.gitcoin.co/avatars/937e2c182a75585c73299b6ed8c00974/getsafle.png",
+                    "bounty_count": 0,
+                    "display_name": "getSafle",
+                    "follower_count": 6
+                },
+                {
+                    "handle": "lit-protocol",
+                    "org_name": "lit-protocol",
+                    "avatar_url": "https://c.gitcoin.co/avatars/fae3b73c45d768d85dbc52145fc0c94e/lit-protocol.png",
+                    "bounty_count": 5,
+                    "display_name": "lit-protocol",
+                    "follower_count": 8
+                },
+                {
+                    "handle": "ledgerhq",
+                    "org_name": "ledgerhq",
+                    "avatar_url": "https://c.gitcoin.co/avatars/80c3be03f3ed645cd87edf52a2e3d9ee/ledgerhq.png",
+                    "bounty_count": 3,
+                    "display_name": "Ledger",
+                    "follower_count": 40
+                },
+                {
+                    "handle": "binance-chain",
+                    "org_name": "binance-chain",
+                    "avatar_url": "https://c.gitcoin.co/avatars/599ffe2a7c29d305ad35437e4f8e5ed5/binance-chain.png",
+                    "bounty_count": 2,
+                    "display_name": "Binance Smart Chain",
+                    "follower_count": 73
+                },
+                {
+                    "handle": "subsquid",
+                    "org_name": "subsquid",
+                    "avatar_url": "https://c.gitcoin.co/avatars/d46c626eddc9217100fb48460d944d4e/subsquid.png",
+                    "bounty_count": 4,
+                    "display_name": "Subsquid",
+                    "follower_count": 30
+                },
+                {
+                    "handle": "stars-labs",
+                    "org_name": "stars-labs",
+                    "avatar_url": "https://c.gitcoin.co/avatars/458299c344c8171572509ad49a54d222/stars-labs.png",
+                    "bounty_count": 0,
+                    "display_name": "stars-labs",
+                    "follower_count": 6
+                },
+                {
+                    "handle": "subquery",
+                    "org_name": "subquery",
+                    "avatar_url": "https://c.gitcoin.co/avatars/30e55c41d95f3f48612a8d02de4bfa3c/subquery.png",
+                    "bounty_count": 5,
+                    "display_name": "SubQuery Network",
+                    "follower_count": 21
+                },
+                {
+                    "handle": "cyberconnecthq",
+                    "org_name": "cyberconnecthq",
+                    "avatar_url": "https://c.gitcoin.co/avatars/7cc38e4537ef8b207b8edda300189df6/cyberconnecthq.png",
+                    "bounty_count": 6,
+                    "display_name": "CyberConnect",
+                    "follower_count": 8
+                },
+                {
+                    "handle": "aws-samples",
+                    "org_name": "aws-samples",
+                    "avatar_url": "https://c.gitcoin.co/avatars/2936d477fd7c3054d4d47071ca65dabc/aws-samples.png",
+                    "bounty_count": 0,
+                    "display_name": "AWS Samples",
+                    "follower_count": 11
+                },
+                {
+                    "handle": "shielddaodev",
+                    "org_name": "shielddaodev",
+                    "avatar_url": "https://c.gitcoin.co/avatars/db50ae2834f4c0af9e83912311751b30/shielddaodev.png",
+                    "bounty_count": 1,
+                    "display_name": "Shield DAO",
+                    "follower_count": 6
+                },
+                {
+                    "handle": "zebec-protocol",
+                    "org_name": "zebec-protocol",
+                    "avatar_url": "https://c.gitcoin.co/avatars/91867097eef53832b495db8cff8a2c69/zebec-protocol.png",
+                    "bounty_count": 0,
+                    "display_name": "Zebec Protocol",
+                    "follower_count": 2
+                }
+            ]
+        },
+        "sponsors": []
+    },
+    "admin_override_suspend_auto_approval": true,
+    "reserved_for_user_handle": "",
+    "is_featured": false,
+    "featuring_date": null,
+    "repo_type": "public",
+    "funder_last_messaged_on": null,
+    "can_remarket": true,
+    "is_reserved": null
+}
